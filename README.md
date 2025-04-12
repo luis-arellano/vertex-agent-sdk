@@ -17,11 +17,13 @@ Install Google's ADK
 pip3 install google-adk==0.1.0
 ```
 
-# Other Instructions
+Set up
 
 create a new .env file
 
+```
 GOOGLE_GENAI_USE_VERTEXAI=
 GOOGLE_CLOUD_PROJECT=
 GOOGLE_CLOUD_LOCATION=
 MODEL=
+```
